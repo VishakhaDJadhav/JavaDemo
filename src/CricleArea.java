@@ -38,6 +38,6 @@ public class CricleArea {
 	    ca.display();
 	    
 	}
-	
+	ptrint;
 
 }
